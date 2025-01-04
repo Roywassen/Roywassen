@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Roywassen
-- 👀 I’m interested in data science, business intelligence and sports.
-- 🌱 I’m currently learning data enginering, data analytics.
+- 👀 I’m interested in data modelling, data science and business intelligence.
+- 🌱 I’m currently working as a data modeller.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: r.wassen@rwvolley.nl.
+- 📫 How to reach me: ...
 
 <!---
 Roywassen/Roywassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
